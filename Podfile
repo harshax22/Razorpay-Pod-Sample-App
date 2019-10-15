@@ -4,8 +4,7 @@
 target 'RazorpayPod Sample App' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
-  pod 'razorpay-pod', :git => 'https://github.com/razorpay/razorpay-pod.git',  :branch => 'swift5.1'
-
+  pod 'razorpay-pod'
   # Pods for RazorpayPod Sample App
 
   target 'RazorpayPod Sample AppTests' do
