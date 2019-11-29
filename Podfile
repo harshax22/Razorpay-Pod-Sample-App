@@ -4,7 +4,7 @@
 target 'RazorpayPod Sample App' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
-  pod 'razorpay-pod'
+  pod 'razorpay-pod', '1.1.4'
   # Pods for RazorpayPod Sample App
 
   target 'RazorpayPod Sample AppTests' do
